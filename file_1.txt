@@ -2,3 +2,6 @@ Good morning and hello
 Im Eugene and I am really enjoying 
 The Last of Us right now
 and excited to learn about git!
+Hi, this is Eric.
+I'm adding three lines of text to your file.
+Have a good day.  Goodbye.
